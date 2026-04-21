@@ -7,7 +7,7 @@ Detection of drug safety signals on 1.9M real adverse event reports using **PRR 
 ---
 
 ## Stack
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter` · `Power BI` *(dashboard in progress)*
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter` 
 
 ## Quick start
 ```bash
